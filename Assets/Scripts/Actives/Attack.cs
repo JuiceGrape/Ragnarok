@@ -14,9 +14,8 @@ public class Attack : ScriptableObject
 
     private float MeleeRange = 1.5f; //TODO: How do I do this in a better way?
 
-    public void AttackHittable(Hittable hittable)
+    public void AttackHittable(Hittable hittable, float minDamage, float maxDamage)
     {
-        //TODO: Attack it or something. Single target without projectile is basic basic attack? 
-        //So maybe just play animation and kick em in the balls? Could do
+
     }
 }

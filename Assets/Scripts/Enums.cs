@@ -50,4 +50,32 @@ public class Enums
         Up,
         Invalid
     }
+
+    public static float GetMultiplierFromRarity(Rarity rarity)
+    {
+        switch(rarity)
+        {
+            case Rarity.Broken:
+                return 0.5f;
+            case Rarity.Fixed:
+                return 0.75f;
+            case Rarity.Improved:
+            case Rarity.Unique:
+                return 1.0f;
+            default:
+                return 0.0f;
+        }
+    }
+
+    public enum Direction
+    {
+        Up,
+        UpRight,
+        Right,
+        DownRight,
+        Down,
+        DownLeft,
+        Left,
+        UpLeft
+    }
 }

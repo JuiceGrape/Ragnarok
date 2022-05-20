@@ -4,21 +4,18 @@ using UnityEngine;
 
 public class Character : MonoBehaviour
 {
-    [SerializeField] private Attack unarmedAttack;
-
     private Dictionary<Enums.SlotType, Equipment> equippedItems;
 
     public Attack EquippedAttack { get; private set; }
+
+    private Statistics stats;
 
 
     private void Start()
     {
         equippedItems = new Dictionary<Enums.SlotType, Equipment>();
 
-        if (unarmedAttack != null)
-        {
-            EquippedAttack = unarmedAttack;
-        }
+        stats = new Statistics(this);
     }
 
     private bool EquipItem(Enums.SlotType slot, Equipment equipment)
@@ -53,7 +50,7 @@ public class Character : MonoBehaviour
         {
             if (slot == Enums.SlotType.Weapon)
             {
-                EquippedAttack = unarmedAttack;
+                EquippedAttack = null;
             }
             equippedItems.Remove(slot);
         }
@@ -83,7 +80,8 @@ public class Character : MonoBehaviour
 
     public void Attack(Hittable target)
     {
-        EquippedAttack.AttackHittable(target);
+        //TODO: Play equipped weapon animation. Later stage stuff
+        EquippedAttack.AttackHittable(target, 0, 1);
     }
 
     public void Interact(Interactable target)

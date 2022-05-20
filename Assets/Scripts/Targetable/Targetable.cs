@@ -6,14 +6,22 @@ public abstract class Targetable : MonoBehaviour
 {
     public static Targetable CurrentTarget;
 
+    private float OutlineWidth = 0.0f;
+
+    private void Start()
+    {
+        OutlineWidth = GetComponent<Renderer>().material.GetFloat("_OutlineWidth");
+        GetComponent<Renderer>().material.SetFloat("_OutlineWidth", 0.0f);
+    }
+
     public void UnTarget()
     {
-        GetComponent<Renderer>()?.material.SetFloat("_OutlineEnabled", 0);
+        GetComponent<Renderer>()?.material.SetFloat("_OutlineWidth", 0.0f);
     }
 
     public void Target()
     {
-        GetComponent<Renderer>()?.material.SetFloat("_OutlineEnabled", 1);
+        GetComponent<Renderer>()?.material.SetFloat("_OutlineWidth", OutlineWidth);
     }
 
     private void OnMouseOver()

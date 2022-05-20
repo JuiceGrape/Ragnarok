@@ -1,0 +1,1956 @@
+fileFormatVersion: 2
+guid: aa413109fefcc3b42ad9951edb2e28ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4777955685347703326
+    second: Hooded knight_finalsheet_0
+  - first:
+      213: -7080837306769375301
+    second: Hooded knight_finalsheet_1
+  - first:
+      213: -540029895078683177
+    second: Hooded knight_finalsheet_2
+  - first:
+      213: -7791328344600539442
+    second: Hooded knight_finalsheet_3
+  - first:
+      213: 586225865977380449
+    second: Hooded knight_finalsheet_4
+  - first:
+      213: 7444606543964089236
+    second: Hooded knight_finalsheet_5
+  - first:
+      213: -9183583678512560986
+    second: Hooded knight_finalsheet_6
+  - first:
+      213: 4154838558773310250
+    second: Hooded knight_finalsheet_7
+  - first:
+      213: 5796138271078110539
+    second: Hooded knight_finalsheet_8
+  - first:
+      213: 4659418466144509916
+    second: Hooded knight_finalsheet_9
+  - first:
+      213: 213096018857953910
+    second: Hooded knight_finalsheet_10
+  - first:
+      213: 4269587806333048137
+    second: Hooded knight_finalsheet_11
+  - first:
+      213: 3263821186843954467
+    second: Hooded knight_finalsheet_12
+  - first:
+      213: 377242407594876909
+    second: Hooded knight_finalsheet_13
+  - first:
+      213: 3146162704414223272
+    second: Hooded knight_finalsheet_14
+  - first:
+      213: -6030134357583625441
+    second: Hooded knight_finalsheet_15
+  - first:
+      213: 794922094848507612
+    second: Hooded knight_finalsheet_16
+  - first:
+      213: -5614814308293358095
+    second: Hooded knight_finalsheet_17
+  - first:
+      213: -7208037152927196022
+    second: Hooded knight_finalsheet_18
+  - first:
+      213: 429967228291296114
+    second: Hooded knight_finalsheet_19
+  - first:
+      213: -1706567582001668211
+    second: Hooded knight_finalsheet_20
+  - first:
+      213: 7754453569113775645
+    second: Hooded knight_finalsheet_21
+  - first:
+      213: 146423851260348222
+    second: Hooded knight_finalsheet_22
+  - first:
+      213: -8793594102753129632
+    second: Hooded knight_finalsheet_23
+  - first:
+      213: 1283406498919443325
+    second: Hooded knight_finalsheet_24
+  - first:
+      213: 511004253073383978
+    second: Hooded knight_finalsheet_25
+  - first:
+      213: -6582108978433686088
+    second: Hooded knight_finalsheet_26
+  - first:
+      213: -6348165304833160335
+    second: Hooded knight_finalsheet_27
+  - first:
+      213: 3182764381029724324
+    second: Hooded knight_finalsheet_28
+  - first:
+      213: 4986178918194907091
+    second: Hooded knight_finalsheet_29
+  - first:
+      213: 5081839942344181556
+    second: Hooded knight_finalsheet_30
+  - first:
+      213: 3727765388125896187
+    second: Hooded knight_finalsheet_31
+  - first:
+      213: 8785247208643670995
+    second: Hooded knight_finalsheet_32
+  - first:
+      213: -4467436893469453910
+    second: Hooded knight_finalsheet_33
+  - first:
+      213: -8411180708081269088
+    second: Hooded knight_finalsheet_34
+  - first:
+      213: 9125763061207984735
+    second: Hooded knight_finalsheet_35
+  - first:
+      213: -4987628974527183095
+    second: Hooded knight_finalsheet_36
+  - first:
+      213: -5006647268913585388
+    second: Hooded knight_finalsheet_37
+  - first:
+      213: 7029874317815530998
+    second: Hooded knight_finalsheet_38
+  - first:
+      213: -6708181331793482730
+    second: Hooded knight_finalsheet_39
+  - first:
+      213: -8898776069257492438
+    second: Hooded knight_finalsheet_40
+  - first:
+      213: 1416833655445776323
+    second: Hooded knight_finalsheet_41
+  - first:
+      213: 5875152208753873915
+    second: Hooded knight_finalsheet_42
+  - first:
+      213: -7973690867133491815
+    second: Hooded knight_finalsheet_43
+  - first:
+      213: -2280176818746135372
+    second: Hooded knight_finalsheet_44
+  - first:
+      213: -5148522150908775193
+    second: Hooded knight_finalsheet_45
+  - first:
+      213: -6533598625364735235
+    second: Hooded knight_finalsheet_46
+  - first:
+      213: -8821741533912043558
+    second: Hooded knight_finalsheet_47
+  - first:
+      213: 3104101604256293245
+    second: Hooded knight_finalsheet_48
+  - first:
+      213: -2883852737649026824
+    second: Hooded knight_finalsheet_49
+  - first:
+      213: 8356288323551402386
+    second: Hooded knight_finalsheet_50
+  - first:
+      213: 8958045933631339919
+    second: Hooded knight_finalsheet_51
+  - first:
+      213: -618303838415890068
+    second: Hooded knight_finalsheet_52
+  - first:
+      213: -7601637205882640227
+    second: Hooded knight_finalsheet_53
+  - first:
+      213: -2861180112363794931
+    second: Hooded knight_finalsheet_54
+  - first:
+      213: 4516555822384600387
+    second: Hooded knight_finalsheet_55
+  - first:
+      213: -2349909790099548092
+    second: Hooded knight_finalsheet_56
+  - first:
+      213: 3095885218580779011
+    second: Hooded knight_finalsheet_57
+  - first:
+      213: -3044654701545724205
+    second: Hooded knight_finalsheet_58
+  - first:
+      213: 7500708969863133939
+    second: Hooded knight_finalsheet_59
+  - first:
+      213: -7892135839046625512
+    second: Hooded knight_finalsheet_60
+  - first:
+      213: -8545580649374778127
+    second: Hooded knight_finalsheet_61
+  - first:
+      213: 6374612273816339583
+    second: Hooded knight_finalsheet_62
+  - first:
+      213: 5647610634665704443
+    second: Hooded knight_finalsheet_63
+  - first:
+      213: -5036342344254896741
+    second: Hooded knight_finalsheet_64
+  - first:
+      213: 625048000386664178
+    second: Hooded knight_finalsheet_65
+  - first:
+      213: -6869476712400470932
+    second: Hooded knight_finalsheet_66
+  - first:
+      213: -4666778301762598769
+    second: Hooded knight_finalsheet_67
+  - first:
+      213: -4670726894787347374
+    second: Hooded knight_finalsheet_68
+  - first:
+      213: 4497988123572249490
+    second: Hooded knight_finalsheet_69
+  - first:
+      213: -2991619579071050868
+    second: Hooded knight_finalsheet_70
+  - first:
+      213: 8551679323205412161
+    second: Hooded knight_finalsheet_71
+  - first:
+      213: 294872197890189221
+    second: Hooded knight_finalsheet_72
+  - first:
+      213: 8936750206646920992
+    second: Hooded knight_finalsheet_73
+  - first:
+      213: 652467040013155914
+    second: Hooded knight_finalsheet_74
+  - first:
+      213: 3435724912585620415
+    second: Hooded knight_finalsheet_75
+  - first:
+      213: -1876440923142340113
+    second: Hooded knight_finalsheet_76
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 915
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a35b19165be4240800000000000000
+      internalID: 4777955685347703326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 915
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf7da14cffcbbd90800000000000000
+      internalID: -7080837306769375301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 915
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd5ebfebad6188f0800000000000000
+      internalID: -540029895078683177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_3
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 851
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece07ab9624afd390800000000000000
+      internalID: -7791328344600539442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 851
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e3ab3b151b22800800000000000000
+      internalID: 586225865977380449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 851
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b2781653e805760800000000000000
+      internalID: 7444606543964089236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 787
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a40f251d4b5d8080800000000000000
+      internalID: -9183583678512560986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_7
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 787
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2377cae7a3f8a930800000000000000
+      internalID: 4154838558773310250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 787
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4558ac5c05007050800000000000000
+      internalID: 5796138271078110539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_9
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 723
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf5076886499a040800000000000000
+      internalID: 4659418466144509916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_10
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 724
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a041b33b115f200800000000000000
+      internalID: 213096018857953910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_11
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 723
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94512d51d7f904b30800000000000000
+      internalID: 4269587806333048137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_12
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 722
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d4a34b31c6b4d20800000000000000
+      internalID: 3263821186843954467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_13
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 722
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defd7e298fb3c3500800000000000000
+      internalID: 377242407594876909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_14
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 723
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab21328f4a69ab20800000000000000
+      internalID: 3146162704414223272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_15
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 724
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13895430c8a05ca0800000000000000
+      internalID: -6030134357583625441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_16
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 723
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdefd8ffe61280b00800000000000000
+      internalID: 794922094848507612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_17
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 722
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdc46a922c2412b0800000000000000
+      internalID: -5614814308293358095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_18
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 722
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cd4f33668e7fb90800000000000000
+      internalID: -7208037152927196022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_19
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 658
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bac538aec87f500800000000000000
+      internalID: 429967228291296114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_20
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 659
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fd79173dd0158e0800000000000000
+      internalID: -1706567582001668211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_21
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 662
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e594eaf6a5d9b60800000000000000
+      internalID: 7754453569113775645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_22
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 658
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37840987b3380200800000000000000
+      internalID: 146423851260348222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_23
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 658
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b0e6601c0e6f580800000000000000
+      internalID: -8793594102753129632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_24
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 659
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b658639639fc110800000000000000
+      internalID: 1283406498919443325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_25
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 662
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22272729a3771700800000000000000
+      internalID: 511004253073383978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_26
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 659
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b50d83f1c6a7a4a0800000000000000
+      internalID: -6582108978433686088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_27
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 594
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bc5fd0a49c6e7a0800000000000000
+      internalID: -6348165304833160335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_28
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 595
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0fa0f67537b2c20800000000000000
+      internalID: 3182764381029724324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_29
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 598
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d78c85ee47723540800000000000000
+      internalID: 4986178918194907091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_30
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 594
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43701d8b082568640800000000000000
+      internalID: 5081839942344181556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_31
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 594
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd7d35bedeabb330800000000000000
+      internalID: 3727765388125896187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_32
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 595
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3b23f3ac77be970800000000000000
+      internalID: 8785247208643670995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_33
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 598
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1574c90d97002c0800000000000000
+      internalID: -4467436893469453910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_34
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 596
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a68239d5bb754b80800000000000000
+      internalID: -8411180708081269088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_35
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 531
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5aeeaf572935ae70800000000000000
+      internalID: 9125763061207984735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_36
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 531
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9078cdd8fd168cab0800000000000000
+      internalID: -4987628974527183095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_37
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 531
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413e9b4d5d0d48ab0800000000000000
+      internalID: -5006647268913585388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_38
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 531
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5490932712f8160800000000000000
+      internalID: 7029874317815530998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_39
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 531
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cea85ce90c7e2a0800000000000000
+      internalID: -6708181331793482730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_40
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 467
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2809201052318480800000000000000
+      internalID: -8898776069257492438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_41
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 467
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7e9a2f3ba99a310800000000000000
+      internalID: 1416833655445776323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_42
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 467
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf350245ecbb88150800000000000000
+      internalID: 5875152208753873915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_43
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 467
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9955bbb1762c75190800000000000000
+      internalID: -7973690867133491815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_44
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 467
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc6e85a34f2b50e0800000000000000
+      internalID: -2280176818746135372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_45
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 460
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e43adcb166cc88b0800000000000000
+      internalID: -5148522150908775193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_46
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 459
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa872eaaaef355a0800000000000000
+      internalID: -6533598625364735235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_47
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 459
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfecd280d0e29580800000000000000
+      internalID: -8821741533912043558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_48
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 459
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71aa6c76fbf31b20800000000000000
+      internalID: 3104101604256293245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_49
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 459
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f854e3e63f7af7d0800000000000000
+      internalID: -2883852737649026824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_50
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 403
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299960ee4ff77f370800000000000000
+      internalID: 8356288323551402386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_51
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 402
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d7abb905f515c70800000000000000
+      internalID: 8958045933631339919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_52
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 402
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69d5f35fe75b67f0800000000000000
+      internalID: -618303838415890068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_53
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 403
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98e8f78c3f818690800000000000000
+      internalID: -7601637205882640227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_54
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 403
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ec424d8db0b48d0800000000000000
+      internalID: -2861180112363794931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_55
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 399
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345d47937970eae30800000000000000
+      internalID: 4516555822384600387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_56
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 403
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44857ea0f71736fd0800000000000000
+      internalID: -2349909790099548092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_57
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 403
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300d3ee143bc6fa20800000000000000
+      internalID: 3095885218580779011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_58
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 403
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6e4a22ea63fb5d0800000000000000
+      internalID: -3044654701545724205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_59
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 339
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa3740511fd71860800000000000000
+      internalID: 7500708969863133939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_60
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 330
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8171f7ac440897290800000000000000
+      internalID: -7892135839046625512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_61
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 339
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc70920daff76980800000000000000
+      internalID: -8545580649374778127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_62
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 339
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f740ba1c61c277850800000000000000
+      internalID: 6374612273816339583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_63
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 339
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbb7fc23f7506e40800000000000000
+      internalID: 5647610634665704443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_64
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 329
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95cd6352515b1ab0800000000000000
+      internalID: -5036342344254896741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_65
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 339
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f68d9e38dd9ca800800000000000000
+      internalID: 625048000386664178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_66
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 339
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c3d8c7357baa0a0800000000000000
+      internalID: -6869476712400470932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_67
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 339
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8880f53cd54c3fb0800000000000000
+      internalID: -4666778301762598769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_68
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 275
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c3651c2ae3e2fb0800000000000000
+      internalID: -4670726894787347374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_69
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 275
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2932375fd501c6e30800000000000000
+      internalID: 4497988123572249490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_70
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 275
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bcd56d7d1ab76d0800000000000000
+      internalID: -2991619579071050868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_71
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 275
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14526b4290bada670800000000000000
+      internalID: 8551679323205412161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_72
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 275
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a72261a3b8971400800000000000000
+      internalID: 294872197890189221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_73
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 275
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027a699c6f6b50c70800000000000000
+      internalID: 8936750206646920992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_74
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 275
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e72a3e0570e0900800000000000000
+      internalID: 652467040013155914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_75
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 275
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb30a0da952eaf20800000000000000
+      internalID: 3435724912585620415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hooded knight_finalsheet_76
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 275
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe148161cea85f5e0800000000000000
+      internalID: -1876440923142340113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
